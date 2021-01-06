@@ -1,0 +1,15 @@
+{
+  "name": "wysiwig-task",
+  "version": "1.0.0",
+  "description": "Simple WYSIWIG editor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaKabanov/wysiwig-task.git"
+  },
+  "author": "Dmitry Kabanov",
+  "license": "ISC",
+  "homepage": "https://github.com/DimaKabanov/wysiwig-task#readme"
+}
